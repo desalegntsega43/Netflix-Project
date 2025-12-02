@@ -2,7 +2,7 @@
 .banner {
     margin-top: -10vh;
     height: 80vh;
-    margin-bottom: -80px;
+    margin-bottom: 80px;
     color: white;
     object-fit: contain;
 }
@@ -29,6 +29,7 @@
     font-size: 1rem;
     max-width: 360px;
     height: 80px;
+    margin-bottom: 30px;
 }
 
 /* 5. Default Button Style */
