@@ -29,6 +29,7 @@
     margin-right: 15px;
     cursor: pointer;
     transition: transform 0.3s;
+    flex-wrap: wrap;
 }
 
 .row__poster:hover {
